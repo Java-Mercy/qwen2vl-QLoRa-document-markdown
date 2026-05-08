@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+peft
+bitsandbytes
+accelerate
+qwen-vl-utils
+gradio
+python-multipart
+pillow
