@@ -1,6 +1,12 @@
 # qwen2vl-QLoRa-document-markdown
 It is good at academic papers. 
 
+Live running on Gradio: https://huggingface.co/spaces/tahir-next/qwen2vl-document-markdown
+
+It would take time to output so i already did a sample input so here is link of that: https://tahir-next-qwen2vl-document-markdown.hf.space/?__theme=system&deep_link=akqqYRoWAfY
+
+So watch how it responded me on a piece of picture of research paper
+
 # Fine-Tuning a Vision Language Model for Document Understanding with QLoRA
 
 How we trained a 2B parameter model to convert research papers into Markdown 
